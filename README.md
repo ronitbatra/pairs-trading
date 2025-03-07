@@ -49,6 +49,7 @@ pairs-trading/
 │   ├── strategy.md
 │   ├── backtesting.md
 │   └── trading_signals.md
+│   └── returns.md
 ├── src/                   # Core source code
 │   ├── config.py          # API keys & strategy settings
 │   ├── data_loader.py     # Fetches stock data
