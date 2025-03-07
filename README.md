@@ -144,5 +144,5 @@ This project is licensed under the **MIT License**. Feel free to modify and dist
 
 ## Author
 
-- **Your Name** – [GitHub Profile](https://github.com/ronitbatra)
+- **Ronit Batra** – [GitHub Profile](https://github.com/ronitbatra)
 - **Email:** xfb7hj@virginia.edu
