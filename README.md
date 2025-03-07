@@ -73,7 +73,7 @@ pairs-trading/
 ### Steps
 1. **Clone the Repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/ronitbatra/pairs-trading
    cd pairs-trading
    ```
 2. **Install Dependencies:**
