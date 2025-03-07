@@ -1,0 +1,22 @@
+# Ignore API keys
+config.py
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore data files
+data/
+*.csv
+*.json
+*.sqlite
+*.db
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+.env/
