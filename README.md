@@ -128,15 +128,6 @@ pairs-trading/
 
 ---
 
-## Future Enhancements
-- **Risk Management:** Implement stop-loss orders and dynamic position sizing.
-- **Strategy Optimization:** Fine-tune Z-score thresholds and improve signal generation.
-- **Advanced Analytics:** Add performance metrics such as Sharpe Ratio, maximum drawdown, and win rate.
-- **Machine Learning Integration:** Use predictive models to refine trade signals.
-- **Order Execution Enhancements:** Switch to limit orders to reduce slippage.
-
----
-
 ## License
 
 This project is licensed under the **MIT License**. Feel free to modify and distribute.
